@@ -1,0 +1,13 @@
+{
+  "input_nb": 64,
+  "hidden_layer_1_nb": 128,
+  "hidden_layer_2_nb": 64,
+  "hidden_layer_3_nb": 32,
+  "output_nb": 1,
+  "learning_rate": 0.1,
+  "dropout": 0.25,
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "lambda": 0.01,
+  "epochs": 1000
+}
